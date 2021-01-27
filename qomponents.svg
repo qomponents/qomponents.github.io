@@ -6,8 +6,9 @@
         <path d='M40 50h20m-25 10l-10-10l10-10m30 20l10-10l-10-10' stroke-width='6' stroke="green"></path>
         <path d='M40 50h20m-25 10l-10-10l10-10m30 20l10-10l-10-10' stroke-width='2' stroke="orange"></path>
         <animateTransform attributeType="xml" attributeName="transform" type="rotate" from="360 50 50" to="0 50 50"
-            dur="5s" additive="sum" repeatCount="indefinite" />
+            dur="20s" additive="sum" repeatCount="indefinite" />
     </g>
     <line x1="80" y1="80" x2="120" y2="120" stroke="black" stroke-width="15"></line>
+    <line x1="80" y1="80" x2="120" y2="120" stroke="#333" stroke-width="3"></line>
     <text x="100" y="95" font-size="100" stroke="black" font-family="Arial">omponents</text>
 </svg>
