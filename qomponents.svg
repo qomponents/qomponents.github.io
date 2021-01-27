@@ -1,0 +1,5 @@
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+<circle cx="50" cy="50" r="40" fill="none" stroke="black" stroke-width="10"></circle>
+<line x1="80" y1="80" x2="120" y2="120" stroke="black" stroke-width="15"></line>
+<text x="100" y="95" font-size="100" stroke="black" font-family="Arial">omponents</text>
+</svg>
