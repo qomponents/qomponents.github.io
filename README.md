@@ -48,9 +48,18 @@ functionalities.
 * Good Web Components will be as free as the &lt;div> tag you wrote today
 
 * And yes, [Lea](https://lea.verou.me/2020/09/the-failed-promise-of-web-components/), we need something to find those Good Web Components, <br />because
-  there already is a lot of shit out there. I am working on a Tabs
-  Meister Component.
+  there already is a lot of shit out there.
 
       
 This is not a novel idea. This is how [Tim Berners-Lee](https://webfoundation.org/docs/2009/10/berners-lee.jpg) [envisioned the Web](https://webfoundation.org/about/vision/history-of-the-web/) to be when he wrote the paper in 1989
       
+
+
+
+
+
+
+
+
+
+      ...
